@@ -1,19 +1,20 @@
-- 👋 Hi, I’m @joshua-elliott32
+- 👋 Hi, I’m @joshua-elliott32 - Joshua Elliott
 
-- 👀 I’m interested in:
+- 🏢 Trainee Business Systems Developer (2024 - Present)
+
+- 🌱 Education:
+	- I am currently studying for a BSc Computer Science online at the University of London
+ 	- A-Levels: Computer Science / Business / Mathematics (AAB)
+ 
+- 👀 Hobbies and interests:
 	- Video games
 	- Photography
 	- Speedcubing
 	- Software development
- 	- General Technology 
-- 🌱 I’m currently learning:
-	- I am currently studying for a BSc Computer Science at the University of London online
- 	- I am also wokring as a Trainee Business Systems Developer and so am learning a lot of new skills through this
-
-- 📫 How to reach me:
-	- joshua.elliott.0302@gmail.com
-
-<!---
-joshua-elliott32/joshua-elliott32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 	- General Technology
+    - F1 enthusiast
+ 
+- 📫 Contact and additonal information:
+	- Email: joshua.elliott.0302@gmail.com
+    - Website: WIP
+ 
